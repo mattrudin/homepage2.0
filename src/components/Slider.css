@@ -25,3 +25,7 @@ section {
 h1 {
     font-size: calc(1rem + 3vw);
 }
+
+.wrapper {
+    width: 40%;
+}

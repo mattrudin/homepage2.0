@@ -1,8 +1,12 @@
 import React from 'react'
 
+import AboutPage from './AboutPage'
+import AboutMe from './AboutMe'
+
 const About = props => (
     <section>
-        <h1>About page</h1>
+        <AboutPage className='wrapper'/>
+        <AboutMe className='wrapper'/>
     </section>
 )
 
