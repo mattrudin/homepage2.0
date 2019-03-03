@@ -4,7 +4,7 @@ import AboutPage from './AboutPage'
 import AboutMe from './AboutMe'
 
 const About = props => (
-    <section>
+    <section id="about">
         <AboutPage className='wrapper'/>
         <AboutMe className='wrapper'/>
     </section>

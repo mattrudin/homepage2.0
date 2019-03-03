@@ -8,6 +8,7 @@
     scroll-snap-type: x mandatory;
     display: flex;
     overflow-x: scroll;
+    scroll-behavior: smooth;
 }
 
 section {

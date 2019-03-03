@@ -3,9 +3,15 @@ import './Navbar.css'
 
 const Navbar = props => (
     <nav className="NavBar" >
-        <span>Home</span>
-        <span>Portfolio</span>
-        <span>About</span>
+        <a href="#home">
+            <span>Home</span>    
+        </a>
+        <a href="#portfolio">
+            <span>Portfolio</span>
+        </a>
+        <a href="#about">
+            <span>About</span>
+        </a>
     </nav>
 )
 
