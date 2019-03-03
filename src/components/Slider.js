@@ -1,4 +1,5 @@
 import React from 'react'
+import './Slider.css'
 
 import Hero from './Hero'
 import Portfolio from './Portfolio'
