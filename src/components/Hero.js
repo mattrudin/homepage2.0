@@ -1,8 +1,11 @@
 import React from 'react'
 
+import Intro from './Intro'
+
 const Hero = props => (
     <section>
-        <h1>Start page</h1>
+        <Intro />
+        <Intro />
     </section>
 )
 
