@@ -1,9 +1,22 @@
-nav {
+.navbar {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    background: #252527;
 }
 
-nav span {
+.navbar span {
     padding: 2em;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+    transition: 0.3s;
+    border-radius: 0.1em;
+}
+
+a:hover {
+    background: #5b5b5b;
 }

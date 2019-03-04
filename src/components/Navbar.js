@@ -2,7 +2,7 @@ import React from 'react'
 import './Navbar.css'
 
 const Navbar = props => (
-    <nav className="NavBar" >
+    <nav className="navbar" >
         <a href="#home">
             <span>Home</span>    
         </a>
