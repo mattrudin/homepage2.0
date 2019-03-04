@@ -1,12 +1,12 @@
 .navbar {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     background: #252527;
 }
 
 .navbar span {
-    padding: 2em;
+    padding: 1em;
 }
 
 a {
