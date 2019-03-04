@@ -1,5 +1,6 @@
 import React from 'react'
 
+import './About.css'
 import AboutPage from './AboutPage'
 import AboutMe from './AboutMe'
 

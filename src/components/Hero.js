@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactGridHover from 'react-grid-hover'
 
+import './Hero.css'
 import Intro from './Intro'
 
 const Hero = props => {
